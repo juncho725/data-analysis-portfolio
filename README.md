@@ -1,6 +1,5 @@
 # 🏥 Healthcare Data Analysis Portfolio
 
-🇰🇷 한국어 버전 보기 → [data-analysis-portfolio-kr](https://github.com/juncho725/data-analysis-portfolio-kr)
 
 > **Healthcare/Medical Data Analyst Portfolio**
 
@@ -109,16 +108,4 @@ portfolio/
 └── 05.non-purchaser-reactivation/        # Potential customer analysis
 ```
 
----
 
-## 💡 Contact Information
-
-**If you're interested in solving business problems with data, please feel free to reach out anytime!**
-
-- 📧 Email: [email address]
-- 💼 LinkedIn: [LinkedIn profile]
-- 📱 Portfolio: [portfolio website]
-
----
-
-*"Data analyst who transforms complex healthcare data into business value"*
